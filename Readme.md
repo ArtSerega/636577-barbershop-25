@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Сергей Артюшин](https://up.htmlacademy.ru/htmlcss/25/user/636577).
+* Наставник: [Артём Альтигин](https://htmlacademy.ru/profile/artem).
 
 ---
 
